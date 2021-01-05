@@ -24,7 +24,7 @@
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.1.4",
     "es6-promise": "^4.2.8",
     "msal": "^1.1.3",
